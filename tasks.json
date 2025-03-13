@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Clean my room",
+        "completeState": "done",
+        "id": 0,
+        "createdAt": "13/3/2025 00:57:53",
+        "lastUpdatedAt": "13/3/2025 00:58:10"
+    },
+    {
+        "task": "bake bread",
+        "completeState": "not done",
+        "id": 1,
+        "createdAt": "13/3/2025 01:05:04",
+        "lastUpdatedAt": "13/3/2025 01:21:30"
+    },
+    {
+        "task": "Bake bread",
+        "completeState": "in progress",
+        "id": 2,
+        "createdAt": "13/3/2025 01:05:42",
+        "lastUpdatedAt": "13/3/2025 01:10:13"
+    },
+    {
+        "task": "Eat breakfast",
+        "completeState": "not done",
+        "id": 3,
+        "createdAt": "13/3/2025 01:05:58",
+        "lastUpdatedAt": "13/3/2025 01:05:58"
+    }
+]
